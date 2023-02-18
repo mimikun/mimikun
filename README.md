@@ -19,7 +19,7 @@
 <p align="left">
   <a href="https://twitter.com/mimikun_Dev" target="blank"
     ><img
-      src="https://img.shields.io/twitter/follow/mimikun_dev?logo=twitter&style=for-the-badge"
+      src="https://img.shields.io/twitter/follow/mimikun_dev?logo=twitter&style=social"
       alt="mimikun_dev"
   /></a>
   <a href="https://mstdn.mimikun.jp/@mimikun" target="blank"
@@ -28,6 +28,7 @@
       alt="@mimikun@mstdn.mimikun.jp"
   /></a>
 </p>
+
 - 🌱 I’m currently learning **Rust, PowerShell**
 
 <h3 align="left">Connect with me:</h3>

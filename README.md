@@ -30,6 +30,7 @@
 </p>
 
 - 🌱 I’m currently learning **Rust, PowerShell**
+- [コロナポリシー](COVID_19_POLICY.md)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

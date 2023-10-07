@@ -31,7 +31,7 @@
 
 - 🌱 I’m currently learning **Rust, PowerShell and Windows.**
 - 😱 I'm afraid of COVID-19.
-- [コロナポリシー](COVID_19_POLICY.md)
+- [my COVID-19 Policies](COVID_19_POLICY.md)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

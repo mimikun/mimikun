@@ -1,4 +1,5 @@
 #!/bin/bash
 
-rm -f *.patch
-rm -f *.html
+# patch
+rm -f ./*.patch
+rm -f ./*.patch.gpg

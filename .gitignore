@@ -1,2 +1,7 @@
+# Common to all platforms
 *.html
+*.zip
 *.patch
+*.patch.gpg
+node_modules
+.textlintcache

@@ -29,7 +29,7 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **Rust, PowerShell and Windows.**
+- 🌱 I’m currently learning **Lua**.
 - 😱 I'm afraid of COVID-19.
 - [my COVID-19 Policies](COVID_19_POLICY.md)
 

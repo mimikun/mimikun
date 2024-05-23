@@ -22,9 +22,9 @@
       src="https://img.shields.io/mastodon/follow/000000001?domain=https%3A%2F%2Fmstdn.mimikun.jp&style=social"
       alt="@mimikun@mstdn.mimikun.jp"
   /></a>
-  <a href="https://twitter.com/mimikun_Dev" target="blank"
+  <a href="https://x.com/mimikun_Dev" target="blank"
     ><img
-      src="https://img.shields.io/twitter/follow/mimikun_dev?logo=twitter&style=social"
+      src="https://img.shields.io/twitter/follow/mimikun_dev?logo=x&style=social"
       alt="mimikun_dev"
   /></a>
 </p>

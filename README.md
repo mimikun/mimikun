@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm mimikun</h1>
-<h3 align="center">A noob developer from Japan</h3>
+<h3 align="center">A developer from Japan</h3>
 
 <p align="left">
   <img

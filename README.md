@@ -29,9 +29,7 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **Lua**.
-- 😱 I'm afraid of COVID-19.
-- [my COVID-19 Policies](COVID_19_POLICY.md)
+- 🌱 I’m currently learning **English**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

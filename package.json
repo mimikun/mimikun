@@ -1,7 +1,7 @@
 {
   "description": "for-textlint",
   "devDependencies": {
-    "textlint": "^14.0.4",
+    "textlint": "^15.0.0",
     "textlint-rule-preset-ja-technical-writing": "^12.0.0"
   },
   "scripts": {

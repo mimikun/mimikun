@@ -1,0 +1,7 @@
+#!/bin/bash
+# mise description="Run clean"
+
+rm -f ./*.patch
+rm -f ./*.zip
+
+# vim:ft=bash

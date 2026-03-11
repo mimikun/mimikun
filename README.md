@@ -29,7 +29,8 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **English**.
+- 🌱 I’m currently learning **English**, **AWS CLF**.
+- 🕹️ I’m currently challenging [Touhoumino](https://www.touhoumino.com) Hard
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
